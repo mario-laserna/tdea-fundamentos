@@ -1,0 +1,15 @@
+{
+  "name": "fundamentos",
+  "version": "0.0.1",
+  "description": "fundamentos de js y node",
+  "main": "datos.js",
+  "dependencies": {
+    "yargs": "^13.2.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mario Laserna laserna.mario\u001b\u001bq\u001b2@gmail.com",
+  "license": "ISC"
+}

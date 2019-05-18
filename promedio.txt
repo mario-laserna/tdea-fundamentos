@@ -1,0 +1,2 @@
+nombre estudiante Juan
+y tiene un promedio de 4
